@@ -1,0 +1,56 @@
+Greedy Pie Eaters
+=================
+[Memory: 256 MB CPU: 2 sec]
+
+Farmer John has M cows, conveniently labeled 1...M, who enjoy
+the occasional change of pace from eating grass. As a treat for
+the cows, Farmer John has baked N pies (1 <= N <= 300), labeled
+1...N. Cow i enjoys pies with labels in the range [li,ri] (from
+li to ri inclusive), and no two cows enjoy the exact same range
+of pies. Cow i also has a weight, wi, which is an integer in the
+range 1...10^6.
+
+Farmer John may choose a sequence of cows c1,c2,...,cK, after
+which the selected cows will take turns eating in that order.
+Unfortunately, the cows don't know how to share! When it is cow
+ci's turn to eat, she will consume all of the pies that she
+enjoys --- that is, all remaining pies in the interval
+[l(ci),r(ci)]. Farmer John would like to avoid the awkward situation
+occurring when it is a cows turn to eat but all of the pies she
+enjoys have already been consumed. Therefore, he wants you to
+compute the largest possible total weight (w(c1)+w(c2)+...+w(cK)) of a
+sequence c1,c2,...,cK for which each cow in the sequence eats at
+least one pie.
+
+SCORING:
+
+Test cases 2-5 satisfy N <= 50 and M <= 20.
+Test cases 6-9 satisfy N <= 50.
+
+PROBLEM NAME: pieaters
+
+INPUT FORMAT:
+
+The first line contains two integers N and M (1 <= M <= N(N+1)/2).
+The next M lines each describe a cow in terms of the integers
+wi, li, and ri.
+
+OUTPUT FORMAT:
+
+Print the maximum possible total weight of a valid sequence.
+
+SAMPLE INPUT:
+
+2 2
+100 1 2
+100 1 1
+
+SAMPLE OUTPUT:
+
+200
+
+In this example, if cow 1 eats first, then there will be nothing
+left for cow 2 to eat. However, if cow 2 eats first, then cow 1
+will be satisfied by eating the second pie only.
+
+Problem credits: Benjamin Qi
