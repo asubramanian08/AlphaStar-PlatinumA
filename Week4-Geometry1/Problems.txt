@@ -1,0 +1,4 @@
+Q1: Lots of Triangles, USACO-P-DEC2016 q1
+Q2: Equilateral Triangles, USACO-P-FEB2020 q2
+Q3: Line of Sight, USACO-G-NOV2013 q2
+Q4: Cow Optics, USACO-G-OPEN2014 q2

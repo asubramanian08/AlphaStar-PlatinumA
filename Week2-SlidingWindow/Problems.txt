@@ -1,0 +1,4 @@
+Q1: Cow Hopscotch, USACO-G-FEB2015 q1
+Q2: No Change, USACO-G-NOV2013 q3
+Q3: Train Tracking 2, USACO-P-JAN2019 q3
+Q4: Fair Photography, USACO-G-OPEN2014 q1

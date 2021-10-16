@@ -1,0 +1,3 @@
+Q1: Cow Curling, USACO-G-JAN2014 q1
+Q2: Balance Beam, USACO-P-DEC2018 q1
+Q3: Falling Portals, USACO-P-JAN2020 q3

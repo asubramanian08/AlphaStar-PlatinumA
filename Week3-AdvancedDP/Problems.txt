@@ -1,0 +1,4 @@
+Q1: 262144, USACO-P-OPEN2016 q1
+Q2: Hidden Codes, IOI-1999 q2
+Q3: Greedy Pie Eaters, USACO-P-DEC2019 q1
+Q4: Subsequence Reversal, USACO-P-JAN2017 q3

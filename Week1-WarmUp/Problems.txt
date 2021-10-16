@@ -1,0 +1,4 @@
+Q1: Balanced Cow Breeds, USACO-G-NOV2012 q1
+Q2: Taking Turns, USACO-G-JAN2010 q1
+Q3: Promotion Counting, USACO-P-JAN2017 q1
+Q4: Boundary, IOI-2003 q6
