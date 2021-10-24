@@ -1,0 +1,4 @@
+Q1: Game of Lines, USACO-S-FEB2008 q1
+Q2: Censoring, USACO-S-FEB2015 q1
+Q3: Empty Stalls, USACO-G-NOV2013 q1
+Q4: Comparing Codes, IOI-2003 q2
