@@ -1,0 +1,3 @@
+Q1: Why Did the Cow Cross the Road, USACO-P-FEB2017 q1
+Q2: Above the Median, USACO-G-NOV2011 q1
+Q3: Counting Haybales, USACO-P-DEC2015 q3
