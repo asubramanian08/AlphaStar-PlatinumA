@@ -1,0 +1,4 @@
+Q1: Cow School, USACO-G-JAN2007 q3
+Q2: Best Cow Line, USACO-G-DEC2007 q3
+Q3: Lifeguards, USACO-P-JAN2018 q1
+Q4: Empodia, IOI-2004 q4
