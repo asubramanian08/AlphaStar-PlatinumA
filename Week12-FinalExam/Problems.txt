@@ -1,0 +1,3 @@
+Q1: Why Did the Cow Cross the Road II, USACO-P-FEB2017 q2
+Q2: Light Switching, USACO-G-NOV2008 q3
+Q3: Cow Hopscotch, USACO-G-FEB2015 q1
