@@ -5,6 +5,8 @@ I took [AlphaStar](https://alphastar.academy/)'s [CC51A-live](https://alphastar.
 
 This is a submodule in the [USACO repository](https://github.com/asubramanian08/USACO) [training folder](https://github.com/asubramanian08/USACO/tree/master/Training). Every [USACO](http://usaco.org/) problem that is done here is displayed as a txt file in the [USACO repository](https://github.com/asubramanian08/USACO) or marked on another solution (.cpp file).
 
+After finishing the class I received 2 certificates for [completion](https://github.com/asubramanian08/AlphaStar-PlatinumA/blob/master/Certificate_of_Completion.pdf) and [mastery](https://github.com/asubramanian08/AlphaStar-PlatinumA/blob/master/Certificate_of_Mastery.pdf).
+
 ### Format
 There is a folder for each week of the class names "Week#-(description)". Within each folder is:
 * Questions Folder: Contains all the questions in .txt format
