@@ -1,0 +1,4 @@
+Q1: Running Laps, USACO-S-OPEN2012 q3
+Q2: Load Balancing, USACO-P-FEB2016 q1
+Q3: Slingshot, USACO-P-FEB2018 q1
+Q4: Out of Sorts, USACO-P-OPEN2018 q1
